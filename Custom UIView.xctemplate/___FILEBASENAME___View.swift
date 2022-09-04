@@ -4,7 +4,7 @@
 //
 //  Created by ___FULLUSERNAME___ on ___DATE___.
 //
-// Copyright (c) ___YEAR___ Oscar R. Garrucho. All rights reserved.
+//  Copyright (c) ___YEAR___ Oscar R. Garrucho. All rights reserved.
 //  Linkedin: https://www.linkedin.com/in/oscar-garrucho/
 //
 
